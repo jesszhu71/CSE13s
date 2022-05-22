@@ -1,7 +1,9 @@
 # Assignment 3
 
 Link to assignment instructions [pdf] (https://github.com/jesszhu71/CSE13s/blob/main/asgn3/assignments_asgn3.pdf)
+
 For this assignment, I created 4 difference sorting methods: Bubble sort, Shell Sort, Quicksort (using stack), and Quicksort (using queue).
+
 ## Build
 
 	$ make
