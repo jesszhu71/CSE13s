@@ -1,5 +1,7 @@
 # Assignment 2
 
+Link to assignment instructions [pdf] (https://github.com/jesszhu71/CSE13s/blob/main/asgn2/assignments_asgn2.pdf)
+
 For this assignment, I implement a math library for the functions arcsine, arccosine, arctangent, and log. mathlib-test tests tests numbers using both my functions and the math.h library functions and shows the difference between the two. Details about how to run the different tests in mathlib-test are under Running.
 
 ## Build
