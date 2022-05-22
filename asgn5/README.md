@@ -1,4 +1,7 @@
 # Assignment 5
+
+Link to assignment instructions [pdf](https://github.com/jesszhu71/CSE13s/blob/main/asgn5/assignments_asgn5.pdf)
+
 This program encodes a file using hamming codes (8, 4) and decodes the files, checking for any errors that happened between encoding and decoding. Error will inject errors into the encoded files to see how errors are corrected when decoding a file. Entropy will measure the amount of entropy generated. 
 ## Build
 
