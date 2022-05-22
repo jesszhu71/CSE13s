@@ -1,5 +1,9 @@
 # Assignment 4
+
 This program finds the fastest path on Denver Long's trip to all of the cities along his route and then returns home. The assignment uses DPS to recursively find the shortest path.
+
+Link to assignment instructions [pdf](https://github.com/jesszhu71/CSE13s/blob/main/asgn4/assignments_asgn4.pdf)
+
 ## Build
 
 	$ make
