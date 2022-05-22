@@ -1,5 +1,9 @@
 # Assignment 6
+
+Link to assignment instructions [pdf](https://github.com/jesszhu71/CSE13s/blob/main/asgn6/assignments_asgn6.pdf)
+
 This program encodes and decodes the files using huffman encoder and decoder. Files and compressed in encode and decompressed in decode in a lossless manner. Entropy will measure the amount of entropy in a file.
+
 ## Build
 
 	$ make
